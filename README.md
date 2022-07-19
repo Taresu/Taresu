@@ -1,6 +1,6 @@
 ### Olá, eu sou o Thales Sgarbi Salata 👋
-- 🎓 Cursando Bacharelado em Sistemas de Informação, na UTFPR;
-- 🏢 Estagiando internamente em Assistant Webmaster, na DIRPPG / Lato Sensu;
+- 🎓 Curso Bacharelado em Sistemas de Informação, na UTFPR;
+- 🏢 Estagio internamente em Assistant Webmaster, na DIRPPG / Lato Sensu;
 - ♨ Participando do Santander Bootcamp Fullstack Developer, através da DIO;
 - 🔐 Estudando para a certificação de Cybersec da Cisco CBOPS 200-201.
 
