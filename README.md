@@ -2,7 +2,7 @@
 - 🎓 Curso Bacharelado em Sistemas de Informação, na UTFPR;
 - 🏢 Estagio internamente em Assistant Webmaster, na DIRPPG / Lato Sensu;
 - ♨ Participando do Santander Bootcamp Fullstack Developer, através da DIO;
-- 🔐 Estudando para a certificação de Cybersec da Cisco CBOPS 200-201.
+- 🔐 Estudando para a certificação de Cybersec da Cisco CBROPS 200-201.
 
 <!--
 **Taresu/Taresu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
