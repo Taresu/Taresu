@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
+<div
   <a href="https://github.com/Taresu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Taresu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taresu&layout=compact&langs_count=7&theme=dark"/>
