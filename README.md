@@ -30,6 +30,10 @@ Here are some ideas to get you started:
 <a href="https://pt.wikipedia.org/wiki/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://pt.wikipedia.org/wiki/HTML5" target="_blank"> <img alt="HTML5" align="left" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> </a>
 <a href="https://pt.wikipedia.org/wiki/CSS3" target="_blank"> <img alt="CSS3" align="left" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> </a>
+<a href="https://pt.wikipedia.org/wiki/Java" target="_blank"> <img alt="Java" align="left" height="42px" 
+src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png"> </a>
+<a href="https://pt.wikipedia.org/wiki/Python" target="_blank"> <img alt="Python" align="left" height="42px" 
+src="https://img.icons8.com/color/344/python--v1.png"> </a>
 <a href="https://pt.wikipedia.org/wiki/Visual_Studio_Code" target="_blank"> <img alt="VsCode" align="left" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> </a>
 <a href="https://pt.wikipedia.org/wiki/Linux" target="_blank"> <img alt="Linux" align="left" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png"> </a>
 <a href="https://pt.wikipedia.org/wiki/Packet_Tracer" target="_blank"> <img alt="Cisco Packet Tracer" align="left" height="42px" src="http://www.cloudi.com.br/scoop2017/wp-content/uploads/2017/10/ciscopackettracer.jpg"> </a>
