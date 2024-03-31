@@ -3,6 +3,9 @@
 - 🏢 Estagio internamente em Cybersecurity na Volkswagen do Brasil;
 - 🔐 Estudando para a certificação de Cybersec da Cisco CBROPS 200-201.
 
+<a href="https://www.instagram.com/ei_thasal/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/thales-sgarbi-salata/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
 <!--
 **Taresu/Taresu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
