@@ -1,7 +1,8 @@
 ### Olá, eu sou o Thales Sgarbi Salata 👋
 - 🎓 Curso Bacharelado em Sistemas de Informação, na UTFPR;
-- 🏢 Estagio internamente em DevOps na Câmara Municipal de Curitiba;
-- 🔐 Estudando para a certificação de Cybersec da Cisco CBROPS 200-201.
+- 🏢 Faço estágio em DevOps na Câmara Municipal de Curitiba;
+- 🐝 Contribuo no projeto de extensão V.E.S.P.A.S ([saiba mais](https://linktr.ee/vespas_utfpr));
+- 🔐 Atualmente estou estudando segurança ofensiva para CTFs;
 
 <a href="https://www.instagram.com/ei_thasal/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/thales-sgarbi-salata/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
