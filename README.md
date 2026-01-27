@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Thales Sgarbi Salata</h1>
 
 <p align="center">
-  🎓 Information Systems (B.Sc.) • ☁️ DevOps • 🔐 Offensive Security • 🐝 Academic Extension
+  🎓 Information Systems (B.Sc.) • 🛡️ DevSecOps • 🔐 Offensive Security • 🐝 Academic Extension
 </p>
 
 <p align="center">
@@ -161,16 +161,16 @@ Currently:
 </div>
 
 **How I use them:**
-- 🧑‍💻 **GitHub Copilot** → pair programming and inline suggestions  
-- 🧠 **Claude Code** → CLI workflows, agentic coding, and large refactors  
-- 🛠 **ChatGPT** → architecture, debugging, reviews, and automation  
-- 🔐 **Dependabot** → automated dependency updates and security alerts  
+- **GitHub Copilot** → pair programming and inline suggestions  
+- **Claude Code** → CLI workflows, agentic coding, and large refactors  
+- **ChatGPT** → architecture, debugging, reviews, and automation  
+- **Dependabot** → automated dependency updates and security alerts  
 
 ---
 
 ## 🚀 Current Interests
 
-- ☁️ DevOps & Cloud Native  
+- 🛡️ DevSecOps & Cloud Security
 - 🔐 Offensive Security and CTFs  
 - 🐧 Linux, networking, and automation  
 - 📦 Containers, CI/CD, and observability  
