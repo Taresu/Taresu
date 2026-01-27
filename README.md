@@ -1,79 +1,102 @@
-### Olá, eu sou o Thales Sgarbi Salata 👋
-- 🎓 Curso Bacharelado em Sistemas de Informação, na UTFPR;
-- 🏢 Faço estágio em DevOps na Câmara Municipal de Curitiba;
-- 🐝 Contribuo no projeto de extensão V.E.S.P.A.S ([saiba mais](https://linktr.ee/vespas_utfpr));
-- 🔐 Atualmente estou estudando segurança ofensiva para CTFs;
+<h1 align="center">👋 Hi, I'm Thales Sgarbi Salata</h1>
 
-<a href="https://www.instagram.com/thales_salata/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/thales-sgarbi-salata/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<p align="center">
+  🎓 Information Systems (B.Sc.) • ☁️ DevOps • 🔐 Offensive Security • 🐝 Academic Extension
+</p>
 
-<div>
-  <a href="https://github.com/Taresu">
+<p align="center">
+  <a href="https://www.instagram.com/thales_salata/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/thales-sgarbi-salata/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+---
+
+## 🧠 About Me
+
+I'm a **Bachelor’s student in Information Systems** at **UTFPR** and a **DevOps Intern** at the **Curitiba City Council**.  
+I have a strong interest in **infrastructure, automation, networking, and offensive security**, with hands-on focus on **CTFs, vulnerability exploitation, hardening, and observability**.
+
+Currently:
+- 🏢 **DevOps Intern** (CI/CD, infrastructure, and automation);
+- 🐝 Member of the **V.E.S.P.A.S** academic extension project  
+  🔗 [Learn more](https://linktr.ee/vespas_utfpr);
+- 🔐 Studying **Offensive Security**, vulnerability research, and CTF challenges;
+- 📚 Continuously learning **Linux, networking, containers, and cloud**.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Taresu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taresu&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-#### 🗂️ Linguagens:
+---
 
-<div 
+## 🗂️ Languages & Technologies
 
-  <a href="https://pt.wikipedia.org/wiki/Python" target="_blank"> <img alt="Python" align="left" height="42px" 
-  src="https://img.icons8.com/color/344/python--v1.png"> </a>
-
-  <a href="https://pt.wikipedia.org/wiki/Node.js" target="_blank"> <img align="left" alt="Node.js" height ="42px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/220px-Node.js_logo.svg.png"> </a>
-
-  <a href="https://pt.wikipedia.org/wiki/NodeRed" target="_blank"> <img align="left" alt="Node-RED" height ="42px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Node-red-icon.png/200px-Node-red-icon.png"> </a>
-
-  <a href="https://pt.wikipedia.org/wiki/Java" target="_blank"> <img alt="Java" align="left" height="42px" 
-  src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png"> </a>
-  
-  <a href="https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)" target="_blank"> <img alt="C" align="left" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> </a>
-  
+<div>
+  <img src="https://img.icons8.com/color/344/python--v1.png" height="42"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="42"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Node-red-icon.png" height="42"/>
+  <img src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42"/>
 </div>
 
-<br/><br/>
+**Practical usage:**
+- Python → automation, scripting, security, and data  
+- Node.js / Node-RED → integrations, IoT, and workflows  
+- Java / C → fundamentals, performance, and low-level concepts  
 
-#### 🪓 Ferramentas / IDEs:
+---
 
-  <a href="https://pt.wikipedia.org/wiki/Visual_Studio_Code" target="_blank"> <img alt="VsCode" align="left" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> </a>
+## 🪓 Tools & Environments
 
-  <a href="https://pt.wikipedia.org/wiki/Packet_Tracer" target="_blank"> <img alt="Cisco Packet Tracer" align="left" height="42px" src="http://www.cloudi.com.br/scoop2017/wp-content/uploads/2017/10/ciscopackettracer.jpg"> </a>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42"/>
+  <img src="https://img.icons8.com/color/344/virtualbox.png" height="42"/>
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/wireshark_logo_icon_170682.png" height="42"/>
+  <img src="http://www.cloudi.com.br/scoop2017/wp-content/uploads/2017/10/ciscopackettracer.jpg" height="42"/>
+</div>
 
-  <a href="https://pt.wikipedia.org/wiki/VirtualBox" target="_blank"> <img alt="Oracle VM VirtualBox" align="left" height="42px" src="https://img.icons8.com/color/344/virtualbox.png"> </a>
-  
-  <a href="https://pt.wikipedia.org/wiki/Wireshark" target="_blank"> <img alt="Wireshark" align="left" height="42px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/wireshark_logo_icon_170682.png"> </a>
+- **VS Code** → development and debugging  
+- **VirtualBox** → labs, VMs, and isolated environments  
+- **Wireshark** → traffic analysis and networking  
+- **Cisco Packet Tracer** → network topology simulation  
 
-<br/><br/>
+---
 
-#### 🤖 IAs (e Agentes):
+## 🤖 AI Tools & Coding Agents
 
-<a href="https://github.com/features/copilot" target="_blank">
-  <img alt="GitHub Copilot" align="left" height="42px" src="https://github.gallerycdn.vsassets.io/extensions/github/copilotvs/1.206.0.0/1719349649662/Microsoft.VisualStudio.Services.Icons.Default">
-</a>
+<div>
+  <img src="https://github.gallerycdn.vsassets.io/extensions/github/copilotvs/1.206.0.0/1719349649662/Microsoft.VisualStudio.Services.Icons.Default" height="42"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg" height="42"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="42"/>
+  <img src="https://avatars.githubusercontent.com/u/27347476?s=280&v=4" height="42"/>
+</div>
 
-<a href="https://www.anthropic.com/claude" target="_blank">
-  <img alt="Claude Code (Anthropic)" align="left" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg">
-</a>
+**How I use them:**
+- 🧑‍💻 **GitHub Copilot** → pair programming and inline suggestions  
+- 🧠 **Claude Code** → CLI workflows, agentic coding, and large refactors  
+- 🛠 **ChatGPT** → architecture, debugging, reviews, and automation  
+- 🔐 **Dependabot** → automated dependency updates and security alerts  
 
-<a href="https://chatgpt.com/" target="_blank">
-  <img alt="ChatGPT" align="left" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/960px-ChatGPT_logo.svg.png">
-</a>
+---
 
-<a href="https://github.com/dependabot" target="_blank">
-  <img alt="Dependabot" align="left" height="42px" src="https://avatars.githubusercontent.com/u/27347476?s=280&v=4">
-</a>
+## 🚀 Current Interests
 
-<br/><br/>
+- ☁️ DevOps & Cloud Native  
+- 🔐 Offensive Security and CTFs  
+- 🐧 Linux, networking, and automation  
+- 📦 Containers, CI/CD, and observability  
 
-Uso:
+---
 
-GitHub Copilot -> pair-programming e sugestões inline
-
-Claude Code -> CLI/agentic coding e refatorações extensas
-
-ChatGPT -> arquitetura, debugging, revisão e automações
-
-Dependabot -> atualização automática de dependências e alertas de segurança
-
-
-
+<p align="center">
+  <i>"Learning how to learn is the most powerful engineering skill."</i>
+</p>
