@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white">
   </a>
 
-  <a href="https://discordapp.com/users/tsalada" target="_blank">
+  <a href="https://discordapp.com/users/465193196608159754" target="_blank">
   <img src="https://img.shields.io/badge/Discord-tsalada-5865F2?style=flat&logo=discord&logoColor=white">
 </p>
 
