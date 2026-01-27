@@ -35,7 +35,8 @@ I'm a **Bachelor’s student in Information Systems** at **UTFPR** and a **DevOp
 I have a strong interest in **infrastructure, automation, networking, and offensive security**, with hands-on focus on **CTFs, vulnerability exploitation, hardening, and observability**.
 
 Currently:
-- 🏢 **DevOps Intern** (CI/CD, infrastructure, and automation);
+- 🏢 **DevOps Intern** (CI/CD, infrastructure, and automation) at Curitiba City Council;
+- 🎨 **Frontend Scholarship Holder at [UTFPR Portal](https://www.utfpr.edu.br/)**, developing academic and institutional web interfaces;
 - 🐝 Member of the **V.E.S.P.A.S** academic extension project  
   🔗 [Learn more](https://linktr.ee/vespas_utfpr);
 - 🔐 Studying **Offensive Security**, vulnerability research, and CTF challenges;
