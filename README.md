@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Thales Sgarbi Salata</h1>
+<h1 align="center">👋 Hi, I'm Thales S. Salata</h1>
 
 <p align="center">
   🎓 Information Systems (B.Sc.) • 🛡️ DevSecOps • 🔐 Offensive Security • 🐝 Academic Extension
@@ -24,6 +24,11 @@
 
 ---
 
+<p align="center">
+  <i>"Learning how to learn is the most powerful engineering skill."</i>
+</p>
+
+
 ## 🧠 About Me
 
 I'm a **Bachelor’s student in Information Systems** at **UTFPR** and a **DevOps Intern** at the **Curitiba City Council**.  
@@ -36,6 +41,13 @@ Currently:
 - 🔐 Studying **Offensive Security**, vulnerability research, and CTF challenges;
 - 📚 Continuously learning **Linux, networking, containers, and cloud**.
 
+## 🚀 Interests
+
+- 🛡️ DevSecOps & Cloud Security
+- 🔐 Offensive Security and CTFs  
+- 🐧 Linux, networking, and automation  
+- 📦 Containers, CI/CD, and observability  
+
 ---
 
 ## 📊 GitHub Analytics
@@ -47,7 +59,9 @@ Currently:
 
 ---
 
-## 🗂️ Languages & Technologies
+## DevSecOps Stack
+
+### 🗂️ Languages & Technologies
 
 <div>
   <!-- Python -->
@@ -91,7 +105,7 @@ Currently:
   </a>
 </div>
 
-**How I use them:**
+**Uses:**
 - **Python** → automation, scripting, security tooling, and data processing  
 - **Node.js / Node-RED** → integrations, APIs, IoT flows, and event-driven workflows  
 - **Java / C** → fundamentals, performance, systems programming, and low-level concepts  
@@ -101,7 +115,7 @@ Currently:
 
 ---
 
-## 🪓 Tools & Environments
+### 🪓 Tools & Environments
 
 <div>
   <a href="https://code.visualstudio.com/docs" target="_blank">
@@ -130,7 +144,7 @@ Currently:
 </div>
 
 
-**How I use them:**
+**Uses:**
 - **VS Code** → development and debugging  
 - **VirtualBox** → labs, virtual machines, and isolated environments  
 - **Wireshark** → traffic analysis and network inspection  
@@ -140,7 +154,7 @@ Currently:
 
 ---
 
-## 🤖 AI Tools & Coding Agents
+### 🤖 AI Tools & Coding Agents
 
 <div>
   <a href="https://docs.github.com/en/copilot" target="_blank">
@@ -160,23 +174,10 @@ Currently:
   </a>
 </div>
 
-**How I use them:**
+**Uses:**
 - **GitHub Copilot** → pair programming and inline suggestions  
 - **Claude Code** → CLI workflows, agentic coding, and large refactors  
 - **ChatGPT** → architecture, debugging, reviews, and automation  
 - **Dependabot** → automated dependency updates and security alerts  
 
 ---
-
-## 🚀 Current Interests
-
-- 🛡️ DevSecOps & Cloud Security
-- 🔐 Offensive Security and CTFs  
-- 🐧 Linux, networking, and automation  
-- 📦 Containers, CI/CD, and observability  
-
----
-
-<p align="center">
-  <i>"Learning how to learn is the most powerful engineering skill."</i>
-</p>
