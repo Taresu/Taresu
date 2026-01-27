@@ -5,12 +5,45 @@
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/thales_salata/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="https://www.instagram.com/thales.salata/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"
+      alt="Instagram"
+      style="margin: 10px 12px; transition: transform 180ms ease, filter 180ms ease;"
+      onmouseover="this.style.transform='scale(1.12)'; this.style.filter='brightness(1.05)';"
+      onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)';"
+    />
   </a>
-  <a href="https://www.linkedin.com/in/thales-sgarbi-salata/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+
+  <a href="https://www.linkedin.com/in/thales-sgarbi-salata/" target="_blank" rel="noreferrer">
+    <img
+      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+      style="margin: 10px 12px; transition: transform 180ms ease, filter 180ms ease;"
+      onmouseover="this.style.transform='scale(1.12)'; this.style.filter='brightness(1.05)';"
+      onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)';"
+    />
   </a>
+
+  <a href="https://www.facebook.com/Thales.Salata" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"
+      alt="Facebook"
+      style="margin: 10px 12px; transition: transform 180ms ease, filter 180ms ease;"
+      onmouseover="this.style.transform='scale(1.12)'; this.style.filter='brightness(1.05)';"
+      onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)';"
+    />
+  </a>
+
+  <span>
+    <img
+      src="https://img.shields.io/badge/Discord-tsalada-5865F2?style=flat&logo=discord&logoColor=white"
+      alt="Discord"
+      style="margin: 10px 12px; transition: transform 180ms ease, filter 180ms ease;"
+      onmouseover="this.style.transform='scale(1.12)'; this.style.filter='brightness(1.05)';"
+      onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)';"
+    />
+  </span>
 </p>
 
 ---
