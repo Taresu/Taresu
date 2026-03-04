@@ -119,6 +119,11 @@ Currently:
 ### 🪓 Tools & Environments
 
 <div>
+    
+  <a href="https://platform.openai.com/docs/codex" target="_blank">
+  <img src="https://conserto.pro/wp-content/uploads/2022/11/microsoftteams-image-56.png" height="42" alt="OpenAI Codex"/>
+  </a>
+
   <a href="https://code.visualstudio.com/docs" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="VS Code"/>
   </a>
