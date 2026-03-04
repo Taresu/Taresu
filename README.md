@@ -84,10 +84,12 @@ Links:
 
 ## GitHub Analytics
 
+<!--
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Taresu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taresu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
 </div>
+-->
 
 <div align="center">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Taresu&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
@@ -106,7 +108,7 @@ Links:
   <a href="https://docs.oracle.com/en/java/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/></a>
   <a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/></a>
   <a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/></a>
-  <a href="https://tailwindcss.com/docs" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS"/></a>
+  <a href="https://tailwindcss.com/docs" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="40" alt="Tailwind CSS"/></a>
   <a href="https://docs.plone.org/" target="_blank"><img src="https://raw.githubusercontent.com/plone/.github/main/plone-logo.png" height="40" alt="Plone"/></a>
 </p>
 
