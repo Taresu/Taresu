@@ -84,20 +84,21 @@ I -> Improve Continuously
   <img src="https://img.shields.io/badge/Adversary_Emulation-1F0008?style=flat-square&logoColor=FF4D6D" alt="Adversary Emulation" />
   <img src="https://img.shields.io/badge/Detection_Engineering-00141F?style=flat-square&logoColor=00C2FF" alt="Detection Engineering" />
   <img src="https://img.shields.io/badge/Threat_Hunting-111827?style=flat-square&logoColor=58A6FF" alt="Threat Hunting" />
+  <img src="https://img.shields.io/badge/Cyber_Kill_Chain-111827?style=flat-square&logoColor=58A6FF" alt="Cyber Kill Chain" />
   <img src="https://img.shields.io/badge/Web_Application_Security-161B22?style=flat-square&logo=owasp&logoColor=F97316" alt="Web App Security" />
   <img src="https://img.shields.io/badge/OWASP_Top_10-161B22?style=flat-square&logo=owasp&logoColor=F97316" alt="OWASP Top 10" />
   <img src="https://img.shields.io/badge/MITRE_ATT%26CK-0A1022?style=flat-square&logo=securityscorecard&logoColor=58A6FF" alt="MITRE ATT&CK" />
   <img src="https://img.shields.io/badge/Network_Security-0A1022?style=flat-square&logo=cisco&logoColor=58A6FF" alt="Network Security" />
 </p>
 
-My work is guided by **OWASP standards (including OWASP Top 10)** and **MITRE ATT&CK** to map offensive findings into defensive improvements.
+My work is guided by **OWASP standards (including OWASP Top 10)**, **MITRE ATT&CK**, and the **Cyber Kill Chain** to map offensive findings into defensive improvements.
 
 ## Methodology
 
 ```text
 1. Attack Surface Mapping -> enumerate assets, services, and weak points
 2. Adversary Simulation   -> execute controlled attack paths and TTPs
-3. Framework Mapping      -> align findings with OWASP Top 10 and MITRE ATT&CK
+3. Framework Mapping      -> align findings with OWASP Top 10, MITRE ATT&CK, and Cyber Kill Chain stages
 4. Detection Validation   -> test SIEM/EDR coverage and alert quality
 5. Reporting              -> deliver impact, evidence, and precise remediation
 6. Hardening Loop         -> tune detections, improve controls, and retest
@@ -177,6 +178,7 @@ Password Attacks  -> Hydra, John the Ripper, Hashcat
 Detection Engineering -> Sigma rules, SIEM correlation, alert tuning
 Telemetry Analysis    -> Splunk/Elastic dashboards and incident pivoting
 Network Detection     -> Suricata/Zeek-based visibility and validation
+Coverage Mapping      -> ATT&CK techniques and Cyber Kill Chain phases
 ```
 
 ## GitHub Activity
