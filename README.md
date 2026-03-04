@@ -6,8 +6,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/PURPLE_TEAM-7C3AED?style=for-the-badge&logoColor=white&labelColor=1E103A" alt="Purple Team" />
-  <img src="https://img.shields.io/badge/RED%2BBLUE_COLLABORATION-00C2FF?style=for-the-badge&logoColor=white&labelColor=001018" alt="Red Blue Collaboration" />
-  <img src="https://img.shields.io/badge/DEVSECOPS_AUTOMATION-00F5D4?style=for-the-badge&logo=datadog&logoColor=001018&labelColor=000000" alt="DevSecOps Automation" />
+  <img src="https://img.shields.io/badge/RED%2BBLUE_SYMBIOSIS-000000?style=for-the-badge&logoColor=white&labelColor=000000" alt="Red Blue Symbiosis" />
+  <img src="https://img.shields.io/badge/DEVSECOPS_AUTOMATION-DC2626?style=for-the-badge&logo=datadog&logoColor=white&labelColor=450A0A" alt="DevSecOps Automation" />
 </p>
 
 <p align="center">
