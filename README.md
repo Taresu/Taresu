@@ -79,6 +79,8 @@ I -> Improve Continuously
 
 <p>
   <img src="https://img.shields.io/badge/Web_Application_Security-161B22?style=flat-square&logo=owasp&logoColor=F97316" alt="Web App Security" />
+  <img src="https://img.shields.io/badge/OWASP_Top_10-161B22?style=flat-square&logo=owasp&logoColor=F97316" alt="OWASP Top 10" />
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-0A1022?style=flat-square&logo=securityscorecard&logoColor=58A6FF" alt="MITRE ATT&CK" />
   <img src="https://img.shields.io/badge/Network_Security-0A1022?style=flat-square&logo=cisco&logoColor=58A6FF" alt="Network Security" />
   <img src="https://img.shields.io/badge/Vulnerability_Research-1F0008?style=flat-square&logo=hackthebox&logoColor=FF4D6D" alt="Vulnerability Research" />
   <img src="https://img.shields.io/badge/CTF-111111?style=flat-square&logo=tryhackme&logoColor=F97316" alt="CTF" />
@@ -86,14 +88,17 @@ I -> Improve Continuously
   <img src="https://img.shields.io/badge/Automation-00141F?style=flat-square&logo=python&logoColor=00C2FF" alt="Automation" />
 </p>
 
+My assessments are guided by **OWASP standards (including the OWASP Top 10)** and **MITRE ATT&CK** for structured threat analysis and reporting.
+
 ## Methodology
 
 ```text
 1. Reconnaissance   -> map attack surface and enumerate services
-2. Analysis         -> identify weak controls and insecure configurations
-3. Exploitation     -> validate real impact with controlled PoCs
-4. Reporting        -> provide clear risk, evidence, and remediation
-5. Hardening        -> help reduce recurrence through secure practices
+2. Framework Mapping -> align findings with OWASP Top 10 and MITRE ATT&CK
+3. Analysis         -> identify weak controls and insecure configurations
+4. Exploitation     -> validate real impact with controlled PoCs
+5. Reporting        -> provide clear risk, evidence, and remediation
+6. Hardening        -> help reduce recurrence through secure practices
 ```
 
 ## Tooling
