@@ -1,13 +1,13 @@
 <h1 align="center">TH4L3S S. S4L4T4</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2200&pause=900&color=00F5D4&center=true&vCenter=true&width=900&lines=%3E+booting+operator+profile...;%3E+role%3A+Pentester-in-training+%7C+DevOps+Intern;%3E+focus%3A+Web+Security+%7C+Network+Security+%7C+CTFs;%3E+stack%3A+Linux+%7C+Python+%7C+Bash+%7C+Automation;%3E+status%3A+break%2C+analyze%2C+harden%2C+repeat" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2200&pause=900&color=00F5D4&center=true&vCenter=true&width=900&lines=%3E+booting+operator+profile...;%3E+role%3A+Purple+Team+%7C+DevOps+Intern;%3E+focus%3A+Adversary+Emulation+%7C+Detection+Engineering;%3E+frameworks%3A+OWASP+Top+10+%7C+MITRE+ATT%26CK;%3E+status%3A+attack+simulate%2C+detect%2C+improve" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OFFENSIVE_SECURITY-FF4D6D?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=1A0007" alt="Offensive Security" />
-  <img src="https://img.shields.io/badge/PENTEST-LABS-00C2FF?style=for-the-badge&logo=probot&logoColor=white&labelColor=001018" alt="Pentest Labs" />
-  <img src="https://img.shields.io/badge/DEVSECOPS-AUTOMATION-00F5D4?style=for-the-badge&logo=datadog&logoColor=001018&labelColor=000000" alt="DevSecOps Automation" />
+  <img src="https://img.shields.io/badge/PURPLE_TEAM-7C3AED?style=for-the-badge&logoColor=white&labelColor=1E103A" alt="Purple Team" />
+  <img src="https://img.shields.io/badge/RED%2BBLUE_COLLABORATION-00C2FF?style=for-the-badge&logoColor=white&labelColor=001018" alt="Red Blue Collaboration" />
+  <img src="https://img.shields.io/badge/DEVSECOPS_AUTOMATION-00F5D4?style=for-the-badge&logo=datadog&logoColor=001018&labelColor=000000" alt="DevSecOps Automation" />
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 - [Profile](#profile)
 - [Current Work](#current-work)
-- [Pentest Focus](#pentest-focus)
+- [Purple Team Focus](#purple-team-focus)
 - [Methodology](#methodology)
 - [Tooling](#tooling)
 - [GitHub Activity](#github-activity)
@@ -42,14 +42,14 @@ th4l3s_s4l4t4
 $ about --short
 Information Systems student at UTFPR
 DevOps Intern at Curitiba City Council
-Pentester-in-training focused on offensive security and hardening
+Purple Team practitioner in training: offense-informed defense
 
 $ mission
-Find weaknesses before attackers do.
+Emulate attacks, validate detections, and harden systems.
 ```
 
-I work at the intersection of **offensive security** and **infrastructure automation**.
-My main interests are **web exploitation**, **network security**, **CTF challenges**, and **security-focused DevOps workflows**.
+I work at the intersection of **offensive security**, **defensive monitoring**, and **infrastructure automation**.
+My main interests are **adversary emulation**, **detection engineering**, **web/network security**, and **security-focused DevOps workflows**.
 
 ```text
 S.G.A.R.B.I
@@ -75,30 +75,30 @@ I -> Improve Continuously
 - UTFPR Portal: https://www.utfpr.edu.br/
 - V.E.S.P.A.S: https://linktr.ee/vespas_utfpr
 
-## Pentest Focus
+## Purple Team Focus
 
 <p>
+  <img src="https://img.shields.io/badge/Purple_Team_Operations-1E103A?style=flat-square&logoColor=C4B5FD" alt="Purple Team Operations" />
+  <img src="https://img.shields.io/badge/Adversary_Emulation-1F0008?style=flat-square&logoColor=FF4D6D" alt="Adversary Emulation" />
+  <img src="https://img.shields.io/badge/Detection_Engineering-00141F?style=flat-square&logoColor=00C2FF" alt="Detection Engineering" />
+  <img src="https://img.shields.io/badge/Threat_Hunting-111827?style=flat-square&logoColor=58A6FF" alt="Threat Hunting" />
   <img src="https://img.shields.io/badge/Web_Application_Security-161B22?style=flat-square&logo=owasp&logoColor=F97316" alt="Web App Security" />
   <img src="https://img.shields.io/badge/OWASP_Top_10-161B22?style=flat-square&logo=owasp&logoColor=F97316" alt="OWASP Top 10" />
   <img src="https://img.shields.io/badge/MITRE_ATT%26CK-0A1022?style=flat-square&logo=securityscorecard&logoColor=58A6FF" alt="MITRE ATT&CK" />
   <img src="https://img.shields.io/badge/Network_Security-0A1022?style=flat-square&logo=cisco&logoColor=58A6FF" alt="Network Security" />
-  <img src="https://img.shields.io/badge/Vulnerability_Research-1F0008?style=flat-square&logo=hackthebox&logoColor=FF4D6D" alt="Vulnerability Research" />
-  <img src="https://img.shields.io/badge/CTF-111111?style=flat-square&logo=tryhackme&logoColor=F97316" alt="CTF" />
-  <img src="https://img.shields.io/badge/Linux-101010?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
-  <img src="https://img.shields.io/badge/Automation-00141F?style=flat-square&logo=python&logoColor=00C2FF" alt="Automation" />
 </p>
 
-My assessments are guided by **OWASP standards (including the OWASP Top 10)** and **MITRE ATT&CK** for structured threat analysis and reporting.
+My work is guided by **OWASP standards (including OWASP Top 10)** and **MITRE ATT&CK** to map offensive findings into defensive improvements.
 
 ## Methodology
 
 ```text
-1. Reconnaissance   -> map attack surface and enumerate services
-2. Framework Mapping -> align findings with OWASP Top 10 and MITRE ATT&CK
-3. Analysis         -> identify weak controls and insecure configurations
-4. Exploitation     -> validate real impact with controlled PoCs
-5. Reporting        -> provide clear risk, evidence, and remediation
-6. Hardening        -> help reduce recurrence through secure practices
+1. Attack Surface Mapping -> enumerate assets, services, and weak points
+2. Adversary Simulation   -> execute controlled attack paths and TTPs
+3. Framework Mapping      -> align findings with OWASP Top 10 and MITRE ATT&CK
+4. Detection Validation   -> test SIEM/EDR coverage and alert quality
+5. Reporting              -> deliver impact, evidence, and precise remediation
+6. Hardening Loop         -> tune detections, improve controls, and retest
 ```
 
 ## Tooling
@@ -158,6 +158,25 @@ Exploitation      -> Metasploit
 Password Attacks  -> Hydra, John the Ripper, Hashcat
 ```
 
+### Detection & Blue Team Side
+
+<p>
+  <img src="https://img.shields.io/badge/SIEM-111827?style=flat-square&logoColor=58A6FF" alt="SIEM" />
+  <img src="https://img.shields.io/badge/EDR-111827?style=flat-square&logoColor=00C2FF" alt="EDR" />
+  <img src="https://img.shields.io/badge/Sigma_Rules-111827?style=flat-square&logoColor=C4B5FD" alt="Sigma Rules" />
+  <img src="https://img.shields.io/badge/Splunk-111827?style=flat-square&logo=splunk&logoColor=ffffff" alt="Splunk" />
+  <img src="https://img.shields.io/badge/Elastic-111827?style=flat-square&logo=elasticsearch&logoColor=FEC514" alt="Elastic" />
+  <img src="https://img.shields.io/badge/Wazuh-111827?style=flat-square&logoColor=58A6FF" alt="Wazuh" />
+  <img src="https://img.shields.io/badge/Suricata-111827?style=flat-square&logoColor=F97316" alt="Suricata" />
+  <img src="https://img.shields.io/badge/Zeek-111827?style=flat-square&logoColor=00E887" alt="Zeek" />
+</p>
+
+```text
+Detection Engineering -> Sigma rules, SIEM correlation, alert tuning
+Telemetry Analysis    -> Splunk/Elastic dashboards and incident pivoting
+Network Detection     -> Suricata/Zeek-based visibility and validation
+```
+
 ## GitHub Activity
 
 <div align="center">
@@ -167,4 +186,4 @@ Password Attacks  -> Hydra, John the Ripper, Hashcat
 ---
 
 <p align="center"><strong>[ operator_status: ONLINE ]</strong></p>
-<p align="center"><strong>Think like an attacker. Build like a defender.</strong></p>
+<p align="center"><strong>Attack-informed defense. Continuous purple teaming.</strong></p>
