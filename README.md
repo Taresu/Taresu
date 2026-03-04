@@ -1,4 +1,4 @@
-<h1 align="center">THALES SGARBI SALATA</h1>
+<h1 align="center">TH4L3S S. S4L4T4</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2200&pause=900&color=00F5D4&center=true&vCenter=true&width=900&lines=%3E+booting+operator+profile...;%3E+role%3A+Pentester-in-training+%7C+DevOps+Intern;%3E+focus%3A+Web+Security+%7C+Network+Security+%7C+CTFs;%3E+stack%3A+Linux+%7C+Python+%7C+Bash+%7C+Automation;%3E+status%3A+break%2C+analyze%2C+harden%2C+repeat" alt="Typing SVG" />
@@ -37,7 +37,7 @@
 
 ```bash
 $ whoami
-thales_sgarbi_salata
+th4l3s_s4l4t4
 
 $ about --short
 Information Systems student at UTFPR
@@ -50,6 +50,16 @@ Find weaknesses before attackers do.
 
 I work at the intersection of **offensive security** and **infrastructure automation**.
 My main interests are **web exploitation**, **network security**, **CTF challenges**, and **security-focused DevOps workflows**.
+
+```text
+S.G.A.R.B.I
+S -> Scan
+G -> Gain Access
+A -> Analyze Impact
+R -> Report Clearly
+B -> Build Defenses
+I -> Improve Continuously
+```
 
 ## Current Work
 
