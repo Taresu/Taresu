@@ -1,202 +1,160 @@
-<h1 align="center">👋 Hi, I'm Thales S. Salata</h1>
+<h1 align="center">THALES SGARBI SALATA</h1>
 
 <p align="center">
-  🎓 Information Systems (B.Sc.) • 🛡️ DevSecOps • 🔐 Offensive Security • 🐝 Academic Extension
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2200&pause=900&color=00F5D4&center=true&vCenter=true&width=860&lines=%3E+booting+profile...;%3E+role%3A+Information+Systems+Student+%40+UTFPR;%3E+role%3A+DevOps+Intern;%3E+focus%3A+DevSecOps+%7C+Offensive+Security+%7C+Automation;%3E+status%3A+always+building%2C+always+learning" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/th4l3s_s4l4d4/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white">
-  </a>
+  <img src="https://img.shields.io/badge/PROFILE-CYBER_TERMINAL-0D1117?style=for-the-badge&logo=gnubash&logoColor=00F5D4&labelColor=000000" alt="Cyber Terminal" />
+  <img src="https://img.shields.io/badge/DEVSECOPS-00C2FF?style=for-the-badge&logo=datadog&logoColor=white&labelColor=001018" alt="DevSecOps" />
+  <img src="https://img.shields.io/badge/OFFSEC-FF4D6D?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=1A0007" alt="Offensive Security" />
+</p>
 
+<p align="center">
   <a href="https://www.linkedin.com/in/thales-sgarbi-salata/" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  <a href="https://www.facebook.com/tssalata" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white">
+  <a href="https://www.instagram.com/th4l3s_s4l4d4/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-
   <a href="https://discordapp.com/users/465193196608159754" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-tsalada-5865F2?style=flat&logo=discord&logoColor=white">
+    <img src="https://img.shields.io/badge/Discord-tsalada-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://www.facebook.com/tssalata" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <i>"Learning how to learn is the most powerful engineering skill."</i>
+## Navegacao Rapida
+
+- [Sobre](#sobre)
+- [Atuacao Atual](#atuacao-atual)
+- [Interesses](#interesses)
+- [GitHub Analytics](#github-analytics)
+- [DevSecOps Stack](#devsecops-stack)
+- [AI Tools](#ai-tools)
+
+## Sobre
+
+```bash
+$ whoami
+thales_sgarbi_salata
+
+$ role --current
+- Information Systems Student (UTFPR)
+- DevOps Intern @ Camara Municipal de Curitiba
+
+$ focus --long
+CI/CD | Infraestrutura | Automacao | Redes | Observabilidade | Offensive Security
+
+$ mindset
+"Learning how to learn is the most powerful engineering skill."
+```
+
+## Atuacao Atual
+
+```text
+[+] DevOps Intern............................ Camara Municipal de Curitiba
+[+] Frontend Scholarship Holder.............. Portal UTFPR
+[+] Member................................... V.E.S.P.A.S (Academic Extension + CTF Team)
+[+] Training................................. Offensive Security and vulnerability research
+[+] Continuous Learning...................... Linux | Networking | Containers | Cloud
+```
+
+Links:
+- Camara Municipal de Curitiba: https://github.com/CMCuritiba
+- Portal UTFPR: https://www.utfpr.edu.br/
+- V.E.S.P.A.S: https://linktr.ee/vespas_utfpr
+
+## Interesses
+
+<p>
+  <img src="https://img.shields.io/badge/DevSecOps-00141F?style=flat-square&logo=datadog&logoColor=00C2FF" alt="DevSecOps" />
+  <img src="https://img.shields.io/badge/Cloud_Security-001A12?style=flat-square&logo=icloud&logoColor=00E887" alt="Cloud Security" />
+  <img src="https://img.shields.io/badge/Offensive_Security-1F0008?style=flat-square&logo=hackthebox&logoColor=FF4D6D" alt="Offensive Security" />
+  <img src="https://img.shields.io/badge/CTF-111111?style=flat-square&logo=tryhackme&logoColor=F97316" alt="CTF" />
+  <img src="https://img.shields.io/badge/Linux-101010?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/Networking-0A1022?style=flat-square&logo=cisco&logoColor=58A6FF" alt="Networking" />
+  <img src="https://img.shields.io/badge/Observability-131825?style=flat-square&logo=grafana&logoColor=FF9830" alt="Observability" />
 </p>
-
-
-## 🧠 About Me
-
-I'm a **Bachelor’s student in Information Systems** at **UTFPR** and a **DevOps Intern** at the [Municipal Chamber of Curitiba](https://en.wikipedia.org/wiki/Municipal_Chamber_of_Curitiba).  
-I have a strong interest in **CI/CD**, **infrastructure, automation, networking, and offensive security**, with hands-on focus on **CTFs, vulnerability exploitation, hardening, and observability**.
-
-Currently:
-- 🏢 **DevOps Intern** (automation and infrastructure) at [Municipal Chamber of Curitiba](https://github.com/CMCuritiba);
-- 🎨 **Frontend Scholarship Holder at [UTFPR Portal](https://www.utfpr.edu.br/)**, developing academic and institutional web interfaces;
-- 🐝 Member of the **V.E.S.P.A.S** → cybersecurity academic extension project (and CTF Team)  
-  🔗 [Learn more](https://linktr.ee/vespas_utfpr);
-- 🔐 Studying **Offensive Security**, vulnerability research, and CTF challenges;
-- 📚 Continuously learning **Linux, networking, containers, and cloud**.
-
-## 🚀 Interests
-
-- 🛡️ DevSecOps & Cloud Security
-- 🔐 Offensive Security and CTFs  
-- 🐧 Linux, networking, and automation  
-- 📦 Containers, CI/CD, and observability  
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Taresu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taresu&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Taresu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taresu&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Taresu&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ---
 
 ## DevSecOps Stack
 
-### 🗂️ Languages & Technologies
+### Linguagens e Tecnologias
 
-<div>
-  <!-- Python -->
-  <a href="https://docs.python.org/3/" target="_blank">
-    <img src="https://img.icons8.com/color/344/python--v1.png" height="42" alt="Python"/>
-  </a>
+<p>
+  <a href="https://docs.python.org/3/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/></a>
+  <a href="https://nodejs.org/en/docs" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/></a>
+  <a href="https://nodered.org/docs" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Node-red-icon.png" height="40" alt="Node-RED"/></a>
+  <a href="https://docs.oracle.com/en/java/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/></a>
+  <a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/></a>
+  <a href="https://tailwindcss.com/docs" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS"/></a>
+  <a href="https://docs.plone.org/" target="_blank"><img src="https://raw.githubusercontent.com/plone/.github/main/plone-logo.png" height="40" alt="Plone"/></a>
+</p>
 
-  <!-- Node.js -->
-  <a href="https://nodejs.org/en/docs" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="42" alt="Node.js"/>
-  </a>
+```text
+Python           -> automacao, scripts e tooling de seguranca
+Node.js/Node-RED -> integracoes, APIs e fluxos orientados a eventos
+Java/C           -> fundamentos, desempenho e baixo nivel
+React/Tailwind   -> interfaces modernas e componentizacao
+Plone            -> CMS corporativo com workflows e seguranca
+```
 
-  <!-- Node-RED -->
-  <a href="https://nodered.org/docs" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Node-red-icon.png" height="42" alt="Node-RED"/>
-  </a>
+### Ferramentas e Ambientes
 
-  <!-- Java -->
-  <a href="https://docs.oracle.com/en/java/" target="_blank">
-    <img src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" height="42" alt="Java"/>
-  </a>
+<p>
+  <a href="https://code.visualstudio.com/docs" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/></a>
+  <a href="https://www.virtualbox.org/wiki/Documentation" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-original.svg" height="40" alt="VirtualBox"/></a>
+  <a href="https://www.wireshark.org/docs/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" height="40" alt="Wireshark"/></a>
+  <a href="https://www.netacad.com/courses/packet-tracer" target="_blank"><img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" height="40" alt="Cisco Packet Tracer"/></a>
+  <a href="https://docs.ansible.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="Ansible"/></a>
+  <a href="https://developer.hashicorp.com/vagrant/docs" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="40" alt="Vagrant"/></a>
+</p>
 
-  <!-- C -->
-  <a href="https://en.cppreference.com/w/c" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42" alt="C"/>
-  </a>
+```text
+VS Code               -> desenvolvimento e debugging
+VirtualBox / Vagrant  -> laboratorios e ambientes reproduziveis
+Wireshark / PacketTracer -> analise e simulacao de redes
+Ansible               -> provisioning e automacao de infraestrutura
+```
 
-  <!-- React -->
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="React"/>
-  </a>
+## AI Tools
 
-  <!-- Tailwind CSS -->
-  <a href="https://tailwindcss.com/docs" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="42" alt="Tailwind CSS"/>
-  </a>
+<p>
+  <a href="https://platform.openai.com/docs" target="_blank"><img src="https://img.shields.io/badge/ChatGPT-0B1320?style=flat-square&logo=openai&logoColor=00F5D4" alt="ChatGPT"/></a>
+  <a href="https://platform.openai.com/docs/codex" target="_blank"><img src="https://img.shields.io/badge/OpenAI_Codex-0B1320?style=flat-square&logo=openai&logoColor=58A6FF" alt="OpenAI Codex"/></a>
+  <a href="https://docs.github.com/en/copilot" target="_blank"><img src="https://img.shields.io/badge/GitHub_Copilot-0B1320?style=flat-square&logo=github&logoColor=ffffff" alt="GitHub Copilot"/></a>
+  <a href="https://docs.anthropic.com/" target="_blank"><img src="https://img.shields.io/badge/Claude-0B1320?style=flat-square&logoColor=ffffff" alt="Claude"/></a>
+  <a href="https://docs.github.com/en/code-security/dependabot" target="_blank"><img src="https://img.shields.io/badge/Dependabot-0B1320?style=flat-square&logo=dependabot&logoColor=58A6FF" alt="Dependabot"/></a>
+</p>
 
-  <!-- Plone -->
-  <a href="https://docs.plone.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/plone/.github/main/plone-logo.png" height="42" alt="Plone"/>
-  </a>
-</div>
-
-**Uses:**
-- **Python** → automation, scripting, security tooling, and data processing  
-- **Node.js / Node-RED** → integrations, APIs, IoT flows, and event-driven workflows  
-- **Java / C** → fundamentals, performance, systems programming, and low-level concepts  
-- **React** → component-based UIs, SPAs, and frontend state management  
-- **Tailwind CSS** → utility-first styling, rapid UI prototyping, and design consistency  
-- **Plone** → enterprise CMS development, content workflows, and security-oriented deployments  
-
----
-
-### 🪓 Tools & Environments
-
-<div>
-  
-  <a href="https://code.visualstudio.com/docs" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="VS Code"/>
-  </a>
-
-  <a href="https://www.virtualbox.org/wiki/Documentation" target="_blank">
-    <img src="https://img.icons8.com/color/344/virtualbox.png" height="42" alt="VirtualBox"/>
-  </a>
-
-  <a href="https://www.wireshark.org/docs/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" height="42" alt="Wireshark"/>
-  </a>
-
-  <a href="https://www.netacad.com/courses/packet-tracer" target="_blank">
-    <img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" height="42" alt="Cisco Packet Tracer"/>
-  </a>
-
-  <a href="https://docs.ansible.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="42" alt="Ansible"/>
-  </a>
-
-  <a href="https://developer.hashicorp.com/vagrant/docs" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="42" alt="Vagrant"/>
-  </a>
-</div>
-
-
-**Uses:**
-- **VS Code** → development and debugging  
-- **VirtualBox** → labs, virtual machines, and isolated environments  
-- **Wireshark** → traffic analysis and network inspection  
-- **Cisco Packet Tracer** → network topology design and simulation  
-- **Ansible** → configuration management, provisioning, and automation  
-- **Vagrant** → reproducible development environments and lab orchestration  
+```text
+ChatGPT      -> system design, debugging e code review
+OpenAI Codex -> implementacao autonoma de tarefas no codebase
+Copilot      -> completions inline e pair-programming no editor
+Claude Code  -> fluxo terminal-driven e refatoracoes amplas
+Dependabot   -> updates de dependencias e alertas de vulnerabilidade
+```
 
 ---
 
-### 🤖 AI Tools & Coding Agents
-
-<div>
-
-  <a href="https://platform.openai.com/docs/codex" target="_blank">
-  <img src="https://conserto.pro/wp-content/uploads/2022/11/microsoftteams-image-56.png" height="42" alt="OpenAI Codex"/>
-  </a>
-  
-  <a href="https://docs.github.com/en/copilot" target="_blank">
-    <img src="https://github.gallerycdn.vsassets.io/extensions/github/copilotvs/1.206.0.0/1719349649662/Microsoft.VisualStudio.Services.Icons.Default" height="42" alt="GitHub Copilot"/>
-  </a>
-
-  <a href="https://docs.anthropic.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg" height="42" alt="Claude"/>
-  </a>
-
-  <a href="https://platform.openai.com/docs" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="42" alt="ChatGPT"/>
-  </a>
-
-  <a href="https://docs.github.com/en/code-security/dependabot" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/27347476?s=280&v=4" height="42" alt="Dependabot"/>
-  </a>
-</div>
-
-#### Design & Reasoning
-
-ChatGPT → system design discussions, debugging analysis, code review, and development automation
-
-#### Implementation
-
-OpenAI Codex → autonomous coding tasks, codebase operations, and implementation of features or fixes
-
-GitHub Copilot → inline code completion and pair-programming assistance inside the IDE
-
-#### Repository Operations
-
-Claude Code → terminal-driven development workflows, repository-wide edits, and large refactoring tasks
-
-#### Maintenance & Security
-
-Dependabot → automated dependency updates and security vulnerability alerts
-
----
+<p align="center"><strong>[ system_status: ONLINE ]</strong></p>
+<p align="center"><strong>Always building. Always learning.</strong></p>
