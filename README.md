@@ -114,7 +114,7 @@ My work is guided by **OWASP standards (including OWASP Top 10)**, **MITRE ATT&C
   <a href="https://docs.oracle.com/en/java/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java"/></a>
   <a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="C"/></a>
   <a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React"/></a>
-  <a href="https://tailwindcss.com/docs" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="35" alt="Tailwind CSS"/></a>
+  <a href="https://tailwindcss.com/docs" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="35" width="35" alt="Tailwind CSS"/></a>
 </p>
 
 ```text
