@@ -176,6 +176,7 @@ Currently:
 </div>
 
 **Uses:**
+- **OpenAI Codex** → agentic software engineering, autonomous coding tasks, bug fixing, and codebase understanding
 - **GitHub Copilot** → pair programming and inline suggestions  
 - **Claude Code** → CLI workflows, agentic coding, and large refactors  
 - **ChatGPT** → architecture, debugging, reviews, and automation  
