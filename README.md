@@ -136,6 +136,28 @@ VirtualBox/Vagrant   -> isolated pentest labs and reproducible environments
 Ansible              -> secure configuration and automation
 ```
 
+### Core Kali Toolkit
+
+<p>
+  <img src="https://img.shields.io/badge/Nmap-111827?style=flat-square&logoColor=58A6FF" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Burp_Suite-111827?style=flat-square&logoColor=F97316" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Metasploit-111827?style=flat-square&logoColor=00C2FF" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/SQLmap-111827?style=flat-square&logoColor=FF4D6D" alt="SQLmap" />
+  <img src="https://img.shields.io/badge/Gobuster-111827?style=flat-square&logo=go&logoColor=00ADD8" alt="Gobuster" />
+  <img src="https://img.shields.io/badge/Nikto-111827?style=flat-square&logoColor=58A6FF" alt="Nikto" />
+  <img src="https://img.shields.io/badge/Wfuzz-111827?style=flat-square&logo=python&logoColor=00C2FF" alt="Wfuzz" />
+  <img src="https://img.shields.io/badge/Hydra-111827?style=flat-square&logoColor=8B5CF6" alt="Hydra" />
+  <img src="https://img.shields.io/badge/John_the_Ripper-111827?style=flat-square&logo=linux&logoColor=FCC624" alt="John the Ripper" />
+  <img src="https://img.shields.io/badge/Hashcat-111827?style=flat-square&logo=nvidia&logoColor=76B900" alt="Hashcat" />
+</p>
+
+```text
+Recon/Enumeration -> Nmap, Gobuster, Nikto, Wfuzz
+Web Testing       -> Burp Suite, SQLmap
+Exploitation      -> Metasploit
+Password Attacks  -> Hydra, John the Ripper, Hashcat
+```
+
 ## GitHub Activity
 
 <div align="center">
