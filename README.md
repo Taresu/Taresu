@@ -125,7 +125,7 @@ React/Tailwind  -> internal tools and security-friendly interfaces
 <p>
   <a href="https://www.kali.org/docs/" target="_blank"><img src="https://img.shields.io/badge/Kali_Linux-111827?style=flat-square&logo=kalilinux&logoColor=58A6FF" alt="Kali Linux"/></a>
   <a href="https://www.wireshark.org/docs/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" height="30" alt="Wireshark"/></a>
-  <a href="https://www.virtualbox.org/wiki/Documentation" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-original.svg" height="35" alt="VirtualBox"/></a>
+  <a href="https://www.virtualbox.org/wiki/Documentation" target="_blank"><img src="https://img.icons8.com/color/48/virtualbox.png" height="35" alt="VirtualBox"/></a>
   <a href="https://developer.hashicorp.com/vagrant/docs" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="35" alt="Vagrant"/></a>
   <a href="https://docs.ansible.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="35" alt="Ansible"/></a>
 </p>
