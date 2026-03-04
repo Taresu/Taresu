@@ -181,11 +181,22 @@ Currently:
   </a>
 </div>
 
-**Uses:**
-- **OpenAI Codex** → agentic software engineering, autonomous coding tasks, bug fixing, and codebase understanding
-- **GitHub Copilot** → pair programming and inline suggestions  
-- **Claude Code** → CLI workflows, agentic coding, and large refactors  
-- **ChatGPT** → architecture, debugging, reviews, and automation  
-- **Dependabot** → automated dependency updates and security alerts  
+#### Design & Reasoning
+
+ChatGPT → system design discussions, debugging analysis, code review, and development automation
+
+#### Implementation
+
+OpenAI Codex → autonomous coding tasks, codebase operations, and implementation of features or fixes
+
+GitHub Copilot → inline code completion and pair-programming assistance inside the IDE
+
+#### Repository Operations
+
+Claude Code → terminal-driven development workflows, repository-wide edits, and large refactoring tasks
+
+#### Maintenance & Security
+
+Dependabot → automated dependency updates and security vulnerability alerts
 
 ---
