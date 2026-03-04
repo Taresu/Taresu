@@ -85,12 +85,12 @@ Links:
 ## GitHub Analytics
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Taresu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taresu&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Taresu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taresu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Taresu&theme=tokyonight" alt="GitHub Streak"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Taresu&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
