@@ -12,13 +12,12 @@
   <img src="https://img.shields.io/badge/MITRE_ATT%26CK-1D4ED8?style=for-the-badge&logoColor=white&labelColor=0B1B4A" alt="MITRE ATT&CK" />
 </p>
 
+---
+
 <p align="center">
   <a href="https://www.linkedin.com/in/thales-sgarbi-salata/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/th4l3s_s4l4d4/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+
   <a href="https://discordapp.com/users/465193196608159754" target="_blank">
     <img src="https://img.shields.io/badge/Discord-tsalada-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
