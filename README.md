@@ -1,7 +1,7 @@
 <h1 align="center">TH4L3S $ S4L4T4</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2200&pause=900&color=00F5D4&center=true&vCenter=true&width=900&lines=%3E+booting+operator+profile...;%3E+role%3A+Purple+Team+%7C+DevOps+Intern;%3E+focus%3A+Adversary+Emulation+%7C+Detection+Engineering;%3E+frameworks%3A+OWASP+Top+10+%7C+MITRE+ATT%26CK;%3E+status%3A+attack+simulate%2C+detect%2C+improve" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2200&pause=900&color=00FF00&center=true&vCenter=true&width=900&lines=%3E+booting+operator+profile...;%3E+role%3A+Purple+Team+%7C+DevOps+Intern;%3E+focus%3A+Adversary+Emulation+%7C+Detection+Engineering;%3E+frameworks%3A+OWASP+Top+10+%7C+MITRE+ATT%26CK;%3E+status%3A+attack+simulate%2C+detect%2C+improve" alt="Typing SVG" />
 </p>
 
 <p align="center">
