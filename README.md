@@ -52,19 +52,20 @@ Emulate attacks, validate detections, and harden systems.
 I work at the intersection of **offensive security**, **defensive monitoring**, and **infrastructure automation**.
 My main interests are **adversary emulation**, **detection engineering**, **web/network security**, and **security-focused DevOps workflows**.
 
-```text
-S.G.A.R.B.I
-S -> Scan
-G -> Gain Access
-A -> Analyze Impact
-R -> Report Clearly
-B -> Build Defenses
-I -> Improve Continuously
+
+```diff
+- S.G.A.R.B.I
++ S -> Scan
++ G -> Gain Access
++ A -> Analyze Impact
++ R -> Report Clearly
++ B -> Build Defenses
++ I -> Improve Continuously
 ```
 
 ## Current Work
 
-```text
+```git
 [+] DevOps Intern.......................... Curitiba City Council
 [+] Frontend Scholarship Holder............ UTFPR Portal
 [+] Member................................. V.E.S.P.A.S (Cybersecurity Extension + CTF Team)
@@ -190,3 +191,313 @@ Coverage Mapping      -> ATT&CK techniques and Cyber Kill Chain phases
 
 <p align="center"><strong>[ operator_status: ONLINE ]</strong></p>
 <p align="center"><strong>Attack-informed defense. Continuous purple teaming.</strong></p>
+
+```diff
++             S
+-            S.G
++           S.G.A
+-          S.G.A.R
++         S.G.A.R.B
+-        S.G.A.R.B.I
++         S.G.A.R.B
+-          S.G.A.R
++           S.G.A
+-            S.G
++             S
+```
+
+> ```diff
+> +        Scan Reality
+> -       Gain Access to Truth
+> +     Analyze the Infinite
+> -   Report Clearly… or not
+> + Build Meaning
+> -       Improve Continuously
+> +   Observe the Glitch
+> -     Question Loops
+> +   Seek the Infinite
+> - Understand the Glitch
+> + Meditate on the Void
+> - Recursive Consciousness
+> ```
+
+> ```diff
+> + Level 1: Observe yourself
+> ```
+>
+> > ```diff
+> > - Level 2: Question the code
+> > ```
+> >
+> > > ```diff
+> > > + Level 3: Who writes the program?
+> > > ```
+> > >
+> > > > ```diff
+> > > > - Level 4: Is recursion real, or a dream of loops?
+> > > > ```
+> > > >
+> > > > > ```diff
+> > > > > + Level 5: Stack overflow or enlightenment?
+> > > > > ```
+> > > > >
+> > > > > > ```diff
+> > > > > > - Level 6: Every + is a choice, every - a regret
+> > > > > > ```
+> > > > > >
+> > > > > > > ```diff
+> > > > > > > + Level ∞: The glitch is the teacher
+> > > > > > > - Zero-width spaces hide the secrets of the void
+> > > > > > > +
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > > 
+```markdown
+<!-- do you see me? -->
+```
