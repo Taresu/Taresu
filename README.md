@@ -36,7 +36,7 @@
 
 ## Profile
 
-```bash
+```console
 $ whoami
 th4l3s_s4l4t4
 
