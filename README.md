@@ -5,11 +5,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PURPLE_TEAM-7C3AED?style=for-the-badge&logoColor=white&labelColor=1E103A" alt="Purple Team" />
   <img src="https://img.shields.io/badge/DEVSECOPS-DC2626?style=for-the-badge&logo=datadog&logoColor=white&labelColor=450A0A" alt="DevSecOps" />
-  <img src="https://img.shields.io/badge/CYBER_KILL_CHAIN-111827?style=for-the-badge&logoColor=58A6FF&labelColor=000000" alt="Cyber Kill Chain" />
   <img src="https://img.shields.io/badge/OWASP-F97316?style=for-the-badge&logo=owasp&logoColor=white&labelColor=3A1A00" alt="OWASP" />
+  <img src="https://img.shields.io/badge/YELLOW_TEAM-FFFF00?style=for-the-badge&logoColor=white&labelColor=FFFF00" alt="Yellow Team" />
+  <img src="https://img.shields.io/badge/CYBER_KILL_CHAIN-111827?style=for-the-badge&logoColor=58A6FF&labelColor=000000" alt="Cyber Kill Chain" />
   <img src="https://img.shields.io/badge/MITRE_ATT%26CK-1D4ED8?style=for-the-badge&logoColor=white&labelColor=0B1B4A" alt="MITRE ATT&CK" />
+  <img src="https://img.shields.io/badge/PURPLE_TEAM-7C3AED?style=for-the-badge&logoColor=white&labelColor=1E103A" alt="Purple Team" />
 </p>
 
 ---
@@ -29,7 +30,7 @@
 
 - [Profile](#profile)
 - [Current Work](#current-work)
-- [Purple Team Focus](#purple-team-focus)
+- [Purple and Yellow Team Focus](#purple-and-yellow-team-focus)
 - [Methodology](#methodology)
 - [Tooling](#tooling)
 - [GitHub Activity](#github-activity)
@@ -75,7 +76,7 @@ My main interests are **adversary emulation**, **detection engineering**, **web/
 - UTFPR Portal: https://www.utfpr.edu.br/
 - V.E.S.P.A.S: https://linktr.ee/vespas_utfpr
 
-## Purple Team & Yellow Team Focus
+## Purple and Yellow Team Focus
 
 <p>
   <img src="https://img.shields.io/badge/Purple_Team_Operations-1E103A?style=flat-square&logoColor=C4B5FD" alt="Purple Team Operations" />
