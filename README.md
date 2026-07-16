@@ -43,7 +43,7 @@ th4l3s_s4l4t4
 
 $ about --short
 Information Systems graduate at UTFPR | DevSecOps | Cybersecurity
-UTFPR Portal Maintainer | Full Stack
+UTFPR Portal Developer | Full Stack
 Purple Team & Yellow Team practitioner in training: offense-informed defense
 
 $ mission
