@@ -41,9 +41,9 @@ $ whoami
 th4l3s_s4l4t4
 
 $ about --short
-Information Systems student at UTFPR
-DevOps Intern at Curitiba City Council
-Purple Team practitioner in training: offense-informed defense
+Information Systems graduate at UTFPR | DevSecOps | Cybersecurity
+UTFPR Portal Maintainer | Full Stack
+Purple Team & Yellow Team practitioner in training: offense-informed defense
 
 $ mission
 Emulate attacks, validate detections, and harden systems.
@@ -66,18 +66,16 @@ My main interests are **adversary emulation**, **detection engineering**, **web/
 ## Current Work
 
 ```git
-[+] DevOps Intern.......................... Curitiba City Council
-[+] Frontend Scholarship Holder............ UTFPR Portal
-[+] Member................................. V.E.S.P.A.S (Cybersecurity Extension + CTF Team)
-[+] Training............................... Offensive security and vulnerability research
-[+] Ongoing Study.......................... Linux | Networking | Containers | Cloud
+[+] Full Stack Developer.......................... UTFPR Portal
+[+] Project Coordinator & CTF Member.............. V.E.S.P.A.S (Cybersecurity Extension Project + CTF Team)
+[+] Training...................................... Offensive security & vulnerability research
+[+] Ongoing Study................................. Linux | Networking | Containers | Cloud
 ```
 
-- Curitiba City Council: https://github.com/CMCuritiba
 - UTFPR Portal: https://www.utfpr.edu.br/
 - V.E.S.P.A.S: https://linktr.ee/vespas_utfpr
 
-## Purple Team Focus
+## Purple Team & Yellow Team Focus
 
 <p>
   <img src="https://img.shields.io/badge/Purple_Team_Operations-1E103A?style=flat-square&logoColor=C4B5FD" alt="Purple Team Operations" />
@@ -249,254 +247,6 @@ Coverage Mapping      -> ATT&CK techniques and Cyber Kill Chain phases
 > > > > > > > + Level ∞: The glitch is the teacher
 > > > > > > > - Zero-width spaces hide the secrets of the void
 > > > > > > > +
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
-> > > > > > >
 > > > > > > > 
 ```markdown
 <!-- do you see me? -->
