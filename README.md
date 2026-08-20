@@ -26,6 +26,9 @@
   <a href="https://github.com/Taresu/veripkg" target="_blank">
     <img src="https://img.shields.io/badge/veripkg-verify_before_trust-00FF87?style=for-the-badge&logo=go&logoColor=black&labelColor=0A0E14" alt="veripkg" />
   </a>
+  <a href="https://taresu.github.io/assets/resume-thales-salata-en.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-PDF-7C3AED?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=1E103A" alt="Résumé PDF" />
+  </a>
 </p>
 
 ---
