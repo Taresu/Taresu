@@ -1,16 +1,31 @@
 <h1 align="center">TH4L3S $ S4L4T4</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2200&pause=900&color=00FF00&center=true&vCenter=true&width=900&lines=%3E+booting+operator+profile...;%3E+role%3A+Purple+Team+%7C+DevOps+Intern;%3E+focus%3A+Adversary+Emulation+%7C+Detection+Engineering;%3E+frameworks%3A+OWASP+Top+10+%7C+MITRE+ATT%26CK;%3E+status%3A+attack+simulate%2C+detect%2C+improve" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2200&pause=900&color=00FF00&center=true&vCenter=true&width=900&lines=%3E+booting+developer+profile...;%3E+role%3A+Full+Stack+Developer+%7C+DevSecOps;%3E+stack%3A+React+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+Node;%3E+security%3A+OWASP+Top+10+%7C+MITRE+ATT%26CK;%3E+status%3A+build%2C+automate%2C+secure" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FULL_STACK-7C3AED?style=for-the-badge&logoColor=white&labelColor=1E103A" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/DEVSECOPS-DC2626?style=for-the-badge&logo=datadog&logoColor=white&labelColor=450A0A" alt="DevSecOps" />
   <img src="https://img.shields.io/badge/OWASP-F97316?style=for-the-badge&logo=owasp&logoColor=white&labelColor=3A1A00" alt="OWASP" />
-  <img src="https://img.shields.io/badge/YELLOW_TEAM-FFFF00?style=for-the-badge&logoColor=white&labelColor=FFFF00" alt="Yellow Team" />
-  <img src="https://img.shields.io/badge/CYBER_KILL_CHAIN-111827?style=for-the-badge&logoColor=58A6FF&labelColor=000000" alt="Cyber Kill Chain" />
   <img src="https://img.shields.io/badge/MITRE_ATT%26CK-1D4ED8?style=for-the-badge&logoColor=white&labelColor=0B1B4A" alt="MITRE ATT&CK" />
   <img src="https://img.shields.io/badge/PURPLE_TEAM-7C3AED?style=for-the-badge&logoColor=white&labelColor=1E103A" alt="Purple Team" />
+</p>
+
+<p align="center">
+  <a href="https://taresu.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-taresu.github.io-00FF87?style=for-the-badge&logo=githubpages&logoColor=black&labelColor=0A0E14" alt="Portfolio" />
+  </a>
+  <a href="https://taresu.github.io/assets/resume-thales-salata-en.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-PDF-7C3AED?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=1E103A" alt="Résumé PDF" />
+  </a>
 </p>
 
 ---
@@ -22,6 +37,9 @@
   <a href="https://discordapp.com/users/465193196608159754" target="_blank">
     <img src="https://img.shields.io/badge/Discord-tsalada-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
+  <a href="mailto:thales.salata@gmail.com">
+    <img src="https://img.shields.io/badge/Email-thales.salata@gmail.com-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
@@ -30,6 +48,7 @@
 
 - [Profile](#profile)
 - [Current Work](#current-work)
+- [Featured](#featured)
 - [Purple and Yellow Team Focus](#purple-and-yellow-team-focus)
 - [Methodology](#methodology)
 - [Tooling](#tooling)
@@ -42,16 +61,16 @@ $ whoami
 th4l3s_s4l4t4
 
 $ about --short
-Information Systems graduate at UTFPR | DevSecOps | Cybersecurity
-UTFPR Portal Developer | Full Stack
-Purple Team & Yellow Team practitioner in training: offense-informed defense
+Information Systems (UTFPR) | Full Stack Developer | DevSecOps
+Build & maintain web/mobile apps; automate infra; security in the SDLC
+UTFPR Portal (React/Volto · Plone 6) · Nerdz maintainer · VESPAS coordinator
 
 $ mission
-Emulate attacks, validate detections, and harden systems.
+Ship products, automate delivery, and secure systems end to end.
 ```
 
-I work at the intersection of **offensive security**, **defensive monitoring**, and **infrastructure automation**.
-My main interests are **adversary emulation**, **detection engineering**, **web/network security**, and **security-focused DevOps workflows**.
+I build and maintain **web and mobile applications** and **automate infrastructure**, with security embedded in the development lifecycle.
+My focus spans **full-stack development**, **DevSecOps**, and **applied security** — from secure web engineering to adversary emulation and detection.
 
 
 ```diff
@@ -67,14 +86,21 @@ My main interests are **adversary emulation**, **detection engineering**, **web/
 ## Current Work
 
 ```git
-[+] Full Stack Developer.......................... UTFPR Portal
-[+] Project Coordinator & CTF Member.............. V.E.S.P.A.S (Cybersecurity Extension Project + CTF Team)
-[+] Training...................................... Offensive security & vulnerability research
-[+] Ongoing Study................................. Linux | Networking | Containers | Cloud
+[+] Full Stack Developer.......... UTFPR Portal — React/Volto · Plone 6 · Python (present)
+[+] Coordinator & CTF............. V.E.S.P.A.S — Cybersecurity Extension + CTF Team (present)
+[~] Past · InfoSec Intern......... Volkswagen do Brasil — SOC · ISO 27001 · IAM
+[~] Past · DevOps Intern.......... Câmara Municipal de Curitiba — Ansible · Python automation
+[>] Full history & projects....... https://taresu.github.io
 ```
 
 - UTFPR Portal: https://www.utfpr.edu.br/
 - V.E.S.P.A.S: https://linktr.ee/vespas_utfpr
+
+## Featured
+
+- **TCC — Cybersecurity Education** (UTFPR, 2026): mixed-methods research; phishing simulations mapped to MITRE ATT&CK. Pilot mean score **7.54 → 9.85**. → https://taresu.github.io/#projetos
+- **Nerdz** — cross-platform group-study app (React Native/Expo · NestJS · Prisma/PostgreSQL · AWS). → https://landing.nerdz.aurasec.dev/
+- **VoIP migration at scale** — Python/Selenium bot reconfigured ~370 phones (static IP → DHCP). → https://taresu.github.io/#projetos
 
 ## Purple and Yellow Team Focus
 
