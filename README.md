@@ -23,6 +23,9 @@
   <a href="https://taresu.github.io" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-taresu.github.io-00FF87?style=for-the-badge&logo=githubpages&logoColor=black&labelColor=0A0E14" alt="Portfolio" />
   </a>
+  <a href="https://github.com/Taresu/veripkg" target="_blank">
+    <img src="https://img.shields.io/badge/veripkg-verify_before_trust-00FF87?style=for-the-badge&logo=go&logoColor=black&labelColor=0A0E14" alt="veripkg" />
+  </a>
 </p>
 
 ---
@@ -95,6 +98,7 @@ My focus spans **full-stack development**, **DevSecOps**, and **applied security
 
 ## Featured
 
+- **veripkg** — verify files downloaded outside the package manager against a trusted source, with honest trust tiers (Go · pure-Go OpenPGP · signed SHA256SUMS / pinned-hash). → https://github.com/Taresu/veripkg
 - **TCC — Cybersecurity Education** (UTFPR, 2026): mixed-methods research; phishing simulations mapped to MITRE ATT&CK. Pilot mean score **7.54 → 9.85**. → https://taresu.github.io/#projetos
 - **Nerdz** — cross-platform group-study app (React Native/Expo · NestJS · Prisma/PostgreSQL · AWS). → https://landing.nerdz.aurasec.dev/
 - **VoIP migration at scale** — Python/Selenium bot reconfigured ~370 phones (static IP → DHCP). → https://taresu.github.io/#projetos
