@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="https://taresu.github.io" target="_blank">
+  <a href="https://thales-salata.dev/" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-taresu.github.io-00FF87?style=for-the-badge&logo=githubpages&logoColor=black&labelColor=0A0E14" alt="Portfolio" />
   </a>
   <a href="https://github.com/Taresu/veripkg" target="_blank">
@@ -93,7 +93,7 @@ My focus spans **full-stack development**, **DevSecOps**, and **applied security
 [+] Coordinator & CTF............. V.E.S.P.A.S — Cybersecurity Extension + CTF Team (present)
 [~] Past · InfoSec Intern......... Volkswagen do Brasil — SOC · ISO 27001 · IAM
 [~] Past · DevOps Intern.......... Câmara Municipal de Curitiba — Ansible · Python automation
-[>] Full history & projects....... https://taresu.github.io
+[>] Full history & projects....... https://thales-salata.dev/
 ```
 
 - UTFPR Portal: https://www.utfpr.edu.br/
@@ -102,9 +102,9 @@ My focus spans **full-stack development**, **DevSecOps**, and **applied security
 ## Featured
 
 - **veripkg** — verify files downloaded outside the package manager against a trusted source, with honest trust tiers (Go · pure-Go OpenPGP · signed SHA256SUMS / pinned-hash). → https://github.com/Taresu/veripkg
-- **TCC — Cybersecurity Education** (UTFPR, 2026): mixed-methods research; phishing simulations mapped to MITRE ATT&CK. Pilot mean score **7.54 → 9.85**. → https://taresu.github.io/#projetos
+- **TCC — Cybersecurity Education** (UTFPR, 2026): mixed-methods research; phishing simulations mapped to MITRE ATT&CK. Pilot mean score **7.54 → 9.85**. → https://thales-salata.dev/#projetos
 - **Nerdz** — cross-platform group-study app (React Native/Expo · NestJS · Prisma/PostgreSQL · AWS). → https://landing.nerdz.aurasec.dev/
-- **VoIP migration at scale** — Python/Selenium bot reconfigured ~370 phones (static IP → DHCP). → https://taresu.github.io/#projetos
+- **VoIP migration at scale** — Python/Selenium bot reconfigured ~370 phones (static IP → DHCP). → https://thales-salata.dev/#projetos
 
 ## Purple and Yellow Team Focus
 
