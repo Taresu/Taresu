@@ -45,6 +45,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="assets/smudge-the-cat.gif" width="480" alt="Smudge the cat looking unimpressed at a plate of salad" />
+</p>
+
 ---
 
 ## Quick Navigation
