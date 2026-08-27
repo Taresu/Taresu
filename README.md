@@ -21,13 +21,13 @@
 
 <p align="center">
   <a href="https://thales-salata.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/thales--salata.dev-00FF87?style=for-the-badge&logo=githubpages&logoColor=black" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/thales--salata.dev-0A0E14?style=for-the-badge&logo=githubpages&logoColor=00FF87&color=0A0E14" alt="Portfolio" />
   </a>
   <a href="https://github.com/Taresu/veripkg" target="_blank">
-    <img src="https://img.shields.io/badge/veripkg-00FF87?style=for-the-badge&logo=go&logoColor=black" alt="veripkg" />
+    <img src="https://img.shields.io/badge/veripkg-0A0E14?style=for-the-badge&logo=go&logoColor=00ADD8&color=0A0E14" alt="veripkg" />
   </a>
   <a href="https://taresu.github.io/assets/resume-thales-salata-en.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9_PDF-7C3AED?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Résumé PDF" />
+    <img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9_PDF-1E103A?style=for-the-badge&logo=readdotcv&logoColor=C4B5FD&color=1E103A" alt="Résumé PDF" />
   </a>
 </p>
 
