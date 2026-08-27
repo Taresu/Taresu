@@ -21,13 +21,10 @@
 
 <p align="center">
   <a href="https://thales-salata.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-00FF87?style=for-the-badge&logo=githubpages&logoColor=0A0E14" alt="Visit my portfolio" />
+    <img src="https://img.shields.io/badge/thales--salata.dev-0A0E14?style=for-the-badge&logo=githubpages&logoColor=00FF87&color=0A0E14" alt="Portfolio" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/Taresu/veripkg" target="_blank">
-    <img src="https://img.shields.io/badge/FEATURED_PROJECT-veripkg-0A0E14?style=for-the-badge&logo=go&logoColor=00ADD8&labelColor=1E103A" alt="Featured project: veripkg" />
+    <img src="https://img.shields.io/badge/veripkg-0A0E14?style=for-the-badge&logo=go&logoColor=00ADD8&color=0A0E14" alt="veripkg" />
   </a>
   <a href="https://taresu.github.io/assets/resume-thales-salata-en.pdf" target="_blank">
     <img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9_PDF-1E103A?style=for-the-badge&logo=readdotcv&logoColor=C4B5FD&color=1E103A" alt="Résumé PDF" />
@@ -39,7 +36,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/thales-sgarbi-salata/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
 
   <a href="https://discordapp.com/users/465193196608159754" target="_blank">
     <img src="https://img.shields.io/badge/Discord-tsalada-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
